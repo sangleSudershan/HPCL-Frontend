@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: sudershan/frontend:v1
+        image: sudershan/hpcl-frontend
         ports:
         - containerPort: 80
